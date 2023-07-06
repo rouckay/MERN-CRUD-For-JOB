@@ -19,7 +19,7 @@ Before running this application, ensure that you have the following software ins
 1. Clone the repository to your local machine:
 
 ```bash
-git clone [<repository_url>](https://github.com/rouckay/MERN-CRUD-For-JOB.git)
+git clone https://github.com/rouckay/MERN-CRUD-For-JOB.git
 ````
 
 2. Navigate to the project directory:

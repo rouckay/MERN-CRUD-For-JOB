@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "author": "Farhad Rahmani",
+  "web": "farhad.tarqee.com",
+  "email": "farhadwardak2018@gmail.com",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4",
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "_id": {
+      "$oid": "6221e9ff711c42195b3e8e81"
+    },
+    "companyName": "Farhad IT Solutions",
+    "phone": "+937-660-98885",
+    "email": "farhadwardak2018@gmail.com",
+    "location": "Kabul Afghanistan",
+    "link": "https://farhad.taraqee.com",
+    "description": "Description some Description some some some Description."
+  },
+  {
+    "_id": {
+      "$oid": "6221e1ff711c42195b3e8e81"
+    },
+    "companyName": "Farhad IT Solutions",
+    "phone": "+937-660-98885",
+    "email": "farhadwardak2018@gmail.com",
+    "location": "Kabul Afghanistan",
+    "link": "https://farhad.taraqee.com",
+    "description": "Description some Description some some some Description."
+  }
+]

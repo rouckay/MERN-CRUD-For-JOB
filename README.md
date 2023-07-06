@@ -19,13 +19,13 @@ Before running this application, ensure that you have the following software ins
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/rouckay/MERN-CRUD-For-JOB.git)
 ````
 
 2. Navigate to the project directory:
 
 ```bash
-cd mern-crud-users-profile-image
+cd MERN-CRUD-For-JOB
 ```
 
 3. Install the dependencies for both the server and the client:

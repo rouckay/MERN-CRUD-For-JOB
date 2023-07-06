@@ -44,13 +44,13 @@ cd ..
 - To start the server, run the following command from the root directory:
 
   ```bash
-  npm run server
+  node index.js
   ```
 
 - To start the client, open a new terminal window/tab, navigate to the root directory, and run the following command:
 
   ```bash
-  npm run client
+  npm start
   ```
 
 6. Access the application:

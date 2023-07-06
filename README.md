@@ -37,17 +37,9 @@ npm install
 cd ..
 ```
 
-4. Set up the environment variables:
+4. Wait to download all dependencies and after that chack if all and everything was finished.
 
-   - Create a `.env` file in the root directory.
-   - Add the following environment variables:
-
-     ```
-     PORT=<server_port>
-     DB_CONNECTION=<mongodb_connection_string>
-     ```
-
-5. Start the development servers:
+6. Start the development servers:
 
 - To start the server, run the following command from the root directory:
 
